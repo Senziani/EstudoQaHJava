@@ -22,9 +22,6 @@ public class GoogleTeste {
     @Test
     public void deveAbrirGoogle() {
         init();
-
-
-        
     }
 
 }
